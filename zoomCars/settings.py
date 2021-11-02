@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'mc9#v+s*+hiabf&$7)ct5kjjn6l5#+h(_e@y2@nk^%wzr*tlnf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['helios911.pythonanywhere.com']
 
